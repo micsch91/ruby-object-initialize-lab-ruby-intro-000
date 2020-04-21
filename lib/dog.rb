@@ -12,3 +12,4 @@ def breed
 end
 
 Fido=Dog.new("Pug")
+Fido.breed
