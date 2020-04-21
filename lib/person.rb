@@ -1,5 +1,8 @@
 class Person
+
   def initialize(person)
-  Person.new
+  @person=person
 end
+
+
   end
